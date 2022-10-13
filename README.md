@@ -9,7 +9,7 @@
 
 ## :camera: Screenshots :camera: ##
 
-# Admin panel
+## Admin panel
 
 <div align="center">
 <img width="49%" src="https://user-images.githubusercontent.com/78959562/195587629-5f0476dc-0a62-4975-b86e-afeb7899bca1.png"/> <img width="49%" src="https://user-images.githubusercontent.com/78959562/195590512-4c281bdb-54e4-49bd-8a81-7071feb00e84.png"/>
@@ -23,7 +23,7 @@
 <img width="98.5%" src="https://user-images.githubusercontent.com/78959562/195587693-6e9a92a0-34c7-4946-8f14-d954a310fffb.png"/>
 </div>
 
-# User page
+## User page
 
 <div align="center">
 <img width="49%" src="https://user-images.githubusercontent.com/78959562/195592445-886f9dc8-2e90-4264-8199-2fe3bee201d6.png"/> <img width="49%" src="https://user-images.githubusercontent.com/78959562/195595564-3cbc601d-8227-497a-9ef9-97b848d024e6.png"/>
